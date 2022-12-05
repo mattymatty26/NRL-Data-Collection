@@ -1,0 +1,12 @@
+name: nrl_collection
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - selenium
+  - bs4
+  - python=3.10
+  - python-dotenv
+  - lxml
+prefix: 
